@@ -8,7 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+/*Header Style */
+
+.header, a {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -24,7 +26,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -49,6 +51,7 @@ a {
 p {
     font-size: 16px;
 }
+/*Hero Style*/
 
 .hero {
     height: 800px;
@@ -58,6 +61,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*content section style*/
 
 .float-left {
     float: left;
@@ -74,6 +78,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* benefits Styke*/
 
 .benefits {
     margin-right: 20px;
@@ -187,6 +193,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Footer Style*/
 
 .footer {
     padding: 30px;
