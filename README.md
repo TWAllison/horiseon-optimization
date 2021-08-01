@@ -1,5 +1,7 @@
 # Horiseon
 
+<img scr="assets\images\Screenshot 2021-08-01 060258.png" width 200px />
+
 ##  Purpose
 a website designed to provide the service of optimizing website traffic and online reputation through the use of:
 * Search Engine Optimization
