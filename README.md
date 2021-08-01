@@ -1,6 +1,6 @@
 # Horiseon
 
-<img scr="assets\images\Screenshot 2021-08-01 060258.png" width 200px />
+ <img src="./assets/images/Screenshot 2021-08-01 060258.png" width 200px />
 
 ##  Purpose
 a website designed to provide the service of optimizing website traffic and online reputation through the use of:
@@ -8,7 +8,7 @@ a website designed to provide the service of optimizing website traffic and onli
 * Online Reputation Management
 * Social Media Marketing
 * Lead Generation
-* Brand Awareness 
+* Brand Awareness git
 * Cost Management
 
 ## Built and refactored with 
