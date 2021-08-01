@@ -1,6 +1,6 @@
 # Horiseon
 
-![horiseon website homepage] (./assets/images/Screenshot 2021-08-01 060258.png)
+![horiseon website homepage](./assets/images/horiseon-screenshot.png)
 
 ##  Purpose
 a website designed to provide the service of optimizing website traffic and online reputation through the use of:
